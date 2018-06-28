@@ -1,5 +1,5 @@
 # movie_classifier-
-Using feature scaling to classify movie ratings 
+Using feature scaling and random forest to classify movie ratings 
 
 We are interested in classifying whether a movie received an above or below average rating based on its budget, popularity, and runtime. 
 
